@@ -22,10 +22,10 @@ In the past I led Sales Engineering and later Product for various UI component l
 - Node.js
 
 ## Fun facts about me:
-⚡ Serial hobbyist - I love to learn new things and end up having too many hobbies to count
-⚡ Fitness enthusiast - I'm always down to try out any new sport or physical activity
-⚡ Metalhead - Whether it is old school heavy metal or some of the more obscure stuff I'm constatly on the search for my next favorite band
-⚡ Video game aficionado - I've been an avid gamer my whole life
+- ⚡ Serial hobbyist - I love to learn new things and end up having too many hobbies to count
+- ⚡ Fitness enthusiast - I'm always down to try out any new sport or physical activity
+- ⚡ Metalhead - Whether it is old school heavy metal or some of the more obscure stuff I'm constatly on the search for my next favorite band
+- ⚡ Video game aficionado - I've been an avid gamer my whole life
 
 ## About my GitHub projects
 My projects on GitHub are eclectic and not always up-to-date. They represent various stages of my career and sample applications I worked on to either gain knowledge about a particular technology, or sample projects I used to present features and functionality of the products that I supported.
